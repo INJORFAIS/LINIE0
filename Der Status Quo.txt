@@ -1,0 +1,31 @@
+
+<h1>Der Status Quo...</h1>
+
+
+                      <img>         IMG OF PEOPLE WAITING FOR TRAINS   </img>
+
+
+<p>Die Deutsche Bahn ist sicherlich den meißten Menschen in Deutschland ein Begriff. 
+Jedoch assoziieren die meißten Menschen mit der Deutsche Bahn leider überwiegend negative Eindrücke. 
+So wird oft über unverschämt hohe Preise in Kombination mit einer intransparenten Preispolitik berichtet. 
+Allerdings sind die häufigsten Kritikpunkte:</p>
+
+<ol>
+   <li>Zugausfälle aufgrund von mangelhafter Technik und/oder fehlendem Personal</li>
+   <li>Störungen durch mangelhafte Technik, menschliches Versagen oder äußere Einflüsse wie z.b. schwierige Witterungsverhältnisse sowie Unfälle</li>
+   <li>Streiks der GDL, die auf dem Rücken von Millionen von Fahrgästen ausgeführt werden und bundesweit das Bahnnetz lahmlegen.</li>
+</ol>
+
+<p>Die öffentlich rechtlichen Medien sind voll von Berichten über die aktuellen Probleme der deutschen Bahn. 
+   Hier sind einige Beispiele:</p>
+
+<div className="Schlagzeilen">
+<div>
+ Schlagzeile 1
+</div>
+<div>
+ Schlagzeile 2
+</div>
+<div>
+ Schlagzeile 3
+</div>

@@ -1,0 +1,8 @@
+Der Vision nach soll eine 1759,4 Kilometer lange ICE-Ringlinie entstehen, die zu jeder halben Stunde jeweils in südwestlicher und nordöstlicher Richtung aus München abfährt. 
+Dabei erreicht sie Berlin entweder über Stuttgart, Frankfurt und Köln oder Nürberg, Erfurt und Halle. Anschließend fährt der ICE nach München und beendet dort seinen Kurs.
+Dabei fährt der ICE auf der 1759,4 Kilometer langen Distanz voll automatisch dank künstlicher Intelligenz. Der Vision nach soll nur noch das Service-Personal mitfahren, 
+wobei die Lokführer durch einen ATO (Automatic Train Operator), also einen Bordcomputer mit Zugang zu Satellitengestützen Systemen wie GNSS und der internen Cloud über 5G Masten.
+Dafür müssen sowohl Züge als auch die Infrastruktur angepasst werden, worauf ich auch nochmal ausführlicher im Detail eingehen werde. 
+Hierbei handelt es sich um Ideen und Anregungen, die eine möglichst baldige Implementierung zum Ziel haben.  
+
+
